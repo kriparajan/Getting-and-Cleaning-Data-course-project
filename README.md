@@ -7,7 +7,5 @@ sourced from:[Human Activity Recognition Using Smartphones from UCI Machine Lear
 ## Files found in this repository
 'run_analysis.R' contains the code that can perform the analysis that was layed out by the directions in the Coursera Project Instructions.
 
-'tidyaverage_dataset.txt' was the text file output of the 5th step of the analysis instructions. 
-
 'Codebook.md' is used to describe all the variable,all the data and any of the work that was being performed when tidying the data.
 
